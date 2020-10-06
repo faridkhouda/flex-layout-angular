@@ -1,6 +1,11 @@
 # FlexLayout
 
+Using flexbox CSS layout we can change the width and height of HTML DOM elements based upon the available space.
+
+We can define different kinds of layouts for different kinds of display devices and different screen sizes.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
+
 
 ## Development server
 
